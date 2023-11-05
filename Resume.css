@@ -14,13 +14,12 @@ body::-webkit-scrollbar {
 #body-header {
     height: 65vh;
     opacity: 0.8;
-    background-image: url(https://ninjasfiles.s3.amazonaws.com/asset_0000000000000020_1549743985_macbook_mouse.jpg);
+    background-image: url(macbook_mouse.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     padding-top: 1.2rem;
 }
-
 
 
 /* Horizontal Lists */
@@ -120,7 +119,6 @@ body::-webkit-scrollbar {
 }
 
 
-
 /*Section Classes*/
 
 section {
@@ -151,7 +149,6 @@ section:nth-child(2n + 1) {
     padding-top: 10px;
     margin-right: 0.5rem;
 }
-
 
 
 /*About Section*/
@@ -188,8 +185,6 @@ section:nth-child(2n + 1) {
     margin: auto;
 }
 
-
-
 /*Skills Section*/
 
 .skills-display {
@@ -222,8 +217,6 @@ section:nth-child(2n + 1) {
     margin-left: 10px;
     vertical-align: middle;
 }
-
-
 
 /* Work Experience */
 
@@ -325,11 +318,6 @@ section:nth-child(2n + 1) {
     color: grey;
     line-height: 20px;
 }
-
-
-
-
-
 
 /* Portfolio Section */
 
@@ -627,4 +615,3 @@ button:focus {
     }
 
 }
-
