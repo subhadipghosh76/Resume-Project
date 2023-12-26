@@ -261,15 +261,7 @@ section:nth-child(2n + 1) {
     padding: 8px;
 }
 
-.timeline-logo {
-    position: absolute;
-    width: 50px;
-    overflow: hidden;
-}
 
-.timeline-logo > img {
-    width: 100%;
-}
 
 #timeline-divider {
     position: absolute;
@@ -544,9 +536,9 @@ button:focus {
 
 /*Percentage Classes */
 
-.eighty-five-percent {
+.ninty-percent{
     height: inherit;
-    width: 85%;
+    width: 90%;
 }
 
 .eighty-percent {
@@ -558,6 +550,17 @@ button:focus {
     height: inherit;
     width: 50%;
 }
+
+.seventy-five-percent {
+    height: inherit;
+    width: 75%;
+}
+
+.ninty-five-percent {
+    height: inherit;
+    width: 95%;
+}
+
 
 
 @media only screen and (max-width: 572px) {
