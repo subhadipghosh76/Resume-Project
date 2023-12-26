@@ -546,9 +546,9 @@ button:focus {
     width: 80%;
 }
 
-.fifty-percent {
+.sixty-percent {
     height: inherit;
-    width: 50%;
+    width: 60%;
 }
 
 .seventy-five-percent {
@@ -556,9 +556,9 @@ button:focus {
     width: 75%;
 }
 
-.ninty-five-percent {
+.ninty-percent {
     height: inherit;
-    width: 95%;
+    width: 90%;
 }
 
 
